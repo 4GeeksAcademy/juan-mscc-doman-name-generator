@@ -27,5 +27,7 @@ window.onload = function() {
   console.log("Possible domain names: ");
 
   domainNames.forEach((name) => {console.log(name)})
+
+  
   
 };
